@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projet_algo_GRADYSONGE", "Projet_algo_GRADYSONGE\Projet_algo_GRADYSONGE.csproj", "{7D603289-652E-4810-B804-87B61FE7FD63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D603289-652E-4810-B804-87B61FE7FD63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D603289-652E-4810-B804-87B61FE7FD63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D603289-652E-4810-B804-87B61FE7FD63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D603289-652E-4810-B804-87B61FE7FD63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB53D23B-3914-483A-99BD-E687DEA9F32E}
+	EndGlobalSection
+EndGlobal
